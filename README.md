@@ -39,3 +39,9 @@ Information is logged in a log file, and an HTML report is generated to showcase
   2. Fills in the login information using data from another class
   3. Submits the login page
 - **Expected Outcome:** Users should be able to log in successfully.
+
+- ## Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+- Email: aakashsehgal01@gmail.com
